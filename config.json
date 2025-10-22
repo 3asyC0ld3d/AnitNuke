@@ -1,0 +1,11 @@
+{
+    "whitelisted_role_id": 123456789012345678,
+    "ban_threshold": 2,
+    "ban_window": 10,
+    "channel_threshold": 3,
+    "channel_window": 10,
+    "role_threshold": 2,
+    "role_window": 10,
+    "log_channel": "mod-logs",
+    "command_cooldown": 5
+}
